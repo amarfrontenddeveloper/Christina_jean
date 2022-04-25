@@ -1,0 +1,81 @@
+*{
+	margin: 0px;
+}
+.slogen
+{
+	width: 100%;
+	height: 20px;
+	background-color: #CC9EB6;
+	border: 1px solid grey;
+	text-align: center;
+
+}
+.navmain
+{
+	display: flex;
+	width: 100%;
+	height: 100px;
+
+}
+.nav1,.nav2
+{
+	display: inline-block;
+	width: 30%;
+}
+.nav2
+{
+	display: inline-block;
+	width: 30%;
+	margin-left: -70px;
+}
+.logo
+{
+	
+	width: 30%;
+	margin-left: 100px;
+}
+li
+{
+	
+	display: inline-block;
+	padding: 20px;
+	
+}
+a
+{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+}
+.mainimage	
+{
+	width: 100%;
+}
+#container
+{
+	margin-top: 7px;
+	position: relative;
+}
+h1
+{
+	text-transform: uppercase;
+	color: white;
+	font-size: 28px;
+}
+button
+{
+	text-transform: uppercase;
+	font-size: 10px;
+	margin-left: 60px;
+	margin-top: 10px;
+	height: 20px;
+	background-color: white;
+	border: none;
+
+}
+.textonimage
+{
+ position: absolute;
+ top: 320px;
+ left: 420px;
+}
